@@ -8,7 +8,7 @@ A partir de datos reales de ventas, rendimiento y reseñas de **4 tiendas**, se 
 
 ## 📂 Estructura del proyecto
 ```text
-📁 Alura_Store_Analysis
+📁 Challenge-Alura-Store
 ├── 📄 AluraStoreLatam.ipynb   # Notebook principal con el análisis
 ├── 📁 data/                       # Archivos CSV con datos de ventas y reseñas
 │   ├── tienda1.csv
