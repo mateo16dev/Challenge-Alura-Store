@@ -44,12 +44,10 @@ A partir de datos reales de ventas, rendimiento y reseñas de **4 tiendas**, se 
 
 📌 Recomendación final
 
-Basado en el análisis de ingresos, reseñas y rendimiento, la Tienda C se identifica como la menos eficiente y la candidata recomendada para ser vendida.
+Basado en el análisis de ingresos, reseñas y rendimiento, la Tienda No.4 se identifica como la menos eficiente y la candidata recomendada para ser vendida.
 Esta conclusión se respalda en:
 
-Ingresos por debajo del promedio.
-
-Menor número de productos líderes en ventas.
+Ingresos por debajo de las otras tiendas.
 
 Evaluaciones de clientes con puntuaciones más bajas.
 
@@ -62,5 +60,4 @@ Proyecto desarrollado como parte del desafío Alura Store — Data Analysis Chal
 ## ▶️ Instrucciones para ejecutar el notebook
 1. **Clonar el repositorio**
    ```bash
-   git clone https://github.com/usuario/alura-store-analysis.git
-   cd alura-store-analysis
+   git clone https://github.com/usuario/alura-store-analysis.git](https://github.com/mateo16dev/Challenge-Alura-Store.git)
