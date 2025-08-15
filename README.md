@@ -60,4 +60,4 @@ Proyecto desarrollado como parte del desafío Alura Store — Data Analysis Chal
 ## ▶️ Instrucciones para ejecutar el notebook
 1. **Clonar el repositorio**
    ```bash
-   git clone https://github.com/usuario/alura-store-analysis.git](https://github.com/mateo16dev/Challenge-Alura-Store.git)
+   https://github.com/usuario/alura-store-analysis.git](https://github.com/mateo16dev/Challenge-Alura-Store.git
