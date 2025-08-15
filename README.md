@@ -15,28 +15,21 @@ A partir de datos reales de ventas, rendimiento y reseñas de **4 tiendas**, se 
 │   ├── tienda2.csv
 │   ├── tienda3.csv
 │   └── tienda4.csv
-├── 📁 img/                        # Imágenes y gráficos generados
-│   ├── ventas_por_tienda.png
-│   ├── calificación_por_tienda.png
-│   └── costo_promedio_envio.png
 └── 📄 README.md                   # Descripción del proyecto
 ```
 
 
 ---
 
-## 📈 Ejemplos de gráficos e insights
+## 📈 Gráficos
 
-- **Ingresos totales por tienda**  
-  <img src="img/ventas_por_tienda.png" width="400">  
+- **Ingresos totales por tienda**   
   *Insight:* La Tienda No. 4 presenta el menor nivel de ingresos acumulados.
 
 - **Calificación por tienda**  
-  <img src="img/categorias_mas_vendidas.png" width="400">  
   *Insight:* La Tienda No.1 presenta la calificación más baja con 3.98 de puntos.
 
-- **Costo promedio de envío**  
-  <img src="img/promedio_envio.png" width="400">  
+- **Costo promedio de envío**    
   *Insight:* La Tienda No.1 presenta el costo promedio más alto, lo que podría afectar la satisfacción del cliente.
 
 ---
